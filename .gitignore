@@ -1,3 +1,7 @@
+# Project-specific
+models/
+config.js
+
 # Logs
 logs
 *.log
